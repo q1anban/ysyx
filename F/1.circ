@@ -423,4 +423,10 @@
     <wire from="(710,240)" to="(710,280)"/>
     <wire from="(710,280)" to="(720,280)"/>
   </circuit>
+  <circuit name="clock_com">
+    <a name="appearance" val="logisim_evolution"/>
+    <a name="circuit" val="clock_com"/>
+    <a name="circuitnamedboxfixedsize" val="true"/>
+    <a name="simulationFrequency" val="1.0"/>
+  </circuit>
 </project>
